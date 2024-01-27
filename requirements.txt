@@ -1,2 +1,2 @@
-flask
-git+https://github.com/benoitc/gunicorn.git
+flask==3.0.0
+gunicorn==19.7.1
